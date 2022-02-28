@@ -1,5 +1,5 @@
 # Lambda-DynamoDB-Operations
-Collection of AWS Lambda functions describing all the basic operations of AWS DynamoDB database (in Python). AWS Lambda lets us create and invoke cloud functions. AWS DynamoDB is a NoSql database. It's a common practice to use Lambda for performing operations over Dynamodb.
+Collection of AWS Lambda functions describing all the basic operations of AWS DynamoDB database (in Python). AWS Lambda lets us create and invoke cloud functions. AWS DynamoDB is a NoSQL database. It's a common practice to use Lambda for performing operations over Dynamodb.
 
 ## Delete Item
 
